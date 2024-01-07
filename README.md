@@ -14,7 +14,7 @@
   <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/2728.gif" width="14">
 </p>
 
-<h4><b># This week i spent my time on: </b></h4>
+<h4><b># In the last 7 days I dedicated my code sessions on: </b></h4>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
