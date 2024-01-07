@@ -1,9 +1,9 @@
 <h3 align="flex-start"><b># Hi Simón (sy-minh) here!&nbsp;</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22"></h3>
-📌&nbsp;<i>Online at Buenos Aires, Argentina (GMT-3)</i>
+<div>📌&nbsp;<i>Online at Buenos Aires, Argentina (GMT-3)</i></div>
 
 <section>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <img src="https://github.com/itssimmons/itssimmons/assets/62354548/8d0cd51f-f164-4e68-a76a-0295ab155e53" width="1000">
+  <img src="https://github.com/itssimmons/itssimmons/assets/62354548/65a2d7ba-3a74-4fe9-a8d9-68a32487ecc1" width="1000">
 </section>
 
 <p>I'm a Computer Technician graduate and Full Stack developer with 2 years of experience. I started programming at the age of 14 and landed my first job at 19. Throughout my career, I have developed mobile, web, and desktop applications, as well as Discord bots. In the BackEnd, I have experience with PHP (Laravel/Lumen), Python, AWS (CloudWatch, CodeArtifacts, AppSync, S3), MySQL, PostgreSQL, MongoDB, and many more. Right now im still learning more technologies and frameworks, i really dunno when to stop 😅</p>
