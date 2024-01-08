@@ -16,6 +16,11 @@
 
 <h4><b># In the last 7 days I dedicated my code sessions on: </b></h4>
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   1 min           █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 - 🔭 I’m currently working on <a href="https://www.socialpiper.com/">socialpiper.com</a> website
