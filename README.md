@@ -18,11 +18,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   11 hrs 37 mins  ███████████▒░░░░░░░░░░░░░   45.57 %
-TypeScript   9 hrs 57 mins   █████████▓░░░░░░░░░░░░░░░   39.04 %
-SCSS         2 hrs 56 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
-TSConfig     35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
-GraphQL      15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+JavaScript   11 hrs 28 mins  ██████████▒░░░░░░░░░░░░░░   41.99 %
+TypeScript   9 hrs 3 mins    ████████▒░░░░░░░░░░░░░░░░   33.10 %
+Python       2 hrs 50 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
+SCSS         1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
+TSConfig     35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ```
 
 <!--END_SECTION:waka-->
