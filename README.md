@@ -5,7 +5,7 @@
 </section>
 
 <br>
-<p>Since I began my career, my main goal has been to understand programming in all its glory. I have worked on projects ranging from simple HTML pages to complex developments that have transformed my approach and methodology. I don't just code to learn; I code to grow and constantly evolve, always striving for excellence in every project.</p>
+<p>Since my career began, my main goal has been to understand programming in all its glory. I have worked on projects ranging from simple HTML pages to complex developments that have transformed my approach and methodology. I don't just code to learn; I code to grow and constantly evolve, always striving for excellence in every project.</p>
 
 <h4><b>Last week code session: </b></h4>
 
