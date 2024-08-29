@@ -21,6 +21,7 @@ Bash          24 mins         ▓░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-- 🚩 Mostly active between 9:00 AM and 6:00 PM <a href="https://onlinealarmkur.com/world/es/">Buenos Aires, Argentina (GMT-3)</a>
-- 👷 I’m currently working on <a href="https://github.com/snapverse/gemini-snippet-monorepo">a Google Chrome extension enhanced with the Gemini SDK.</a>
-- 🐍 I’m currently learning <a href="https://www.reddit.com/r/ProgrammerHumor/comments/jgl84v/you_should_switch_to_python/?rdt=44019">Python</a> for AI
+- 🚩 Mostly active between 9:00 AM and 6:00 PM <a href=https://onlinealarmkur.com/world/es>Buenos Aires, Argentina (GMT-3)</a>
+- 👷 I’m currently working on <a href=https://github.com/snapverse/gemini-snippet-monorepo>a Google Chrome extension enhanced with the Gemini SDK.</a>
+- 👴 I’m currently learning <a href=https://images3.memedroid.com/images/UPLOADED755/65f2bce6734f6.webp>C++</a> for game development
+- 🐍 Sometimes learning <a href=https://qph.cf2.quoracdn.net/main-qimg-4472b6229cb75bf66ab531f3ebd4f975-lq>Python</a> for AI and Cloud proposals
