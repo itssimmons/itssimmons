@@ -6,13 +6,18 @@
 
 <br>
 
+<!--START_SECTION:bullets-->
+
 - 🥵 Working at <b>28ºC</b>
-- 💻 Currently working in my own files handling framework <a href=https://github.com/snapverse/cdn-framework>Cdn Framework</a>
+- 💻 Currently working in <a href=https://github.com/snapverse/cdn-framework>Cdn Framework</a>
 - 🚩 Mostly active between 9am and 6pm <a href=https://onlinealarmkur.com/world/es>(GMT-3)</a>
+- ⛓️ Let's <a href=https://www.linkedin.com/in/itsimmons>connect</a> on LinkedIn
+- 👴 I’m currently learning <a href=https://images3.memedroid.com/images/UPLOADED755/65f2bce6734f6.webp>C++</a> for Game Dev
+- 🐍 Sometimes learning <a href=https://qph.cf2.quoracdn.net/main-qimg-4472b6229cb75bf66ab531f3ebd4f975-lq>Python</a> for ML & Cloud Computing
 - 🎮 Usually playing <a href=https://www.huntshowdown.com/>Hunt Showdown</a> in my free time
-- ⛓️ Let's connect on LinkedIn <a href=https://www.huntshowdown.com/>Hunt Showdown</a> at nights
-- 👴 I’m currently learning <a href=https://images3.memedroid.com/images/UPLOADED755/65f2bce6734f6.webp>C++</a> for game development
-- 🐍 Sometimes learning <a href=https://qph.cf2.quoracdn.net/main-qimg-4472b6229cb75bf66ab531f3ebd4f975-lq>Python</a> for AI and Cloud proposals
+
+<!--END_SECTION:bullets-->
+
 
 <h4><b>Last week code session: </b></h4>
 
