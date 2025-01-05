@@ -1,4 +1,4 @@
-<h2>:wave: <b>Bienvenido I'm Simon!&nbsp;</b></h2>
+<h2>:wave: <b>Bienvenido I am Simon!&nbsp;</b></h2>
 
 <section>
   <img src="./static/banner.gif" height=300 width=1000>
@@ -29,7 +29,7 @@
   </li>
 </ul>
 
-<h4><b>Last week code session: </b></h4>
+<h2><b>Weekly coding breakdown </b></h2>
 
 <!--START_SECTION:waka-->
 
