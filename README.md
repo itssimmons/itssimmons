@@ -13,19 +13,19 @@
     <!--END_SECTION:weather-->
   </li>
   <li>
-    Currently working in 🖼️&nbsp;<a href=https://github.com/snapverse/cdn-framework>CdnFramework</a>
+    Currently working in 🖼️&nbsp;<a href=https://github.com/snapverse/cdn-framework target=_blank>CdnFramework</a>
   </li>
   <li>
-    🚩 Mostly active between 9am and 6pm <a href=https://onlinealarmkur.com/world/es>(GMT-3)</a>
+    🚩 Mostly active between 9am and 6pm <a href=https://onlinealarmkur.com/world/es target=_blank>(GMT-3)</a>
   </li>
   <li>
-    🔗 Let's <a href=https://www.linkedin.com/in/itsimmons>connect</a> on LinkedIn
+    🔗 Let's <a href=https://www.linkedin.com/in/itsimmons target=_blank>connect</a> on LinkedIn
   </li>
   <li>
-    Learning 👴&nbsp;<a href=https://images3.memedroid.com/images/UPLOADED755/65f2bce6734f6.webp>C++</a> for Game Dev and 🐍&nbsp;<a href=https://qph.cf2.quoracdn.net/main-qimg-4472b6229cb75bf66ab531f3ebd4f975-lq>Python</a> for ML
+    Learning 👴&nbsp;<a href=https://images3.memedroid.com/images/UPLOADED755/65f2bce6734f6.webp target=_blank>C++</a> for Game Dev and 🐍&nbsp;<a href=https://qph.cf2.quoracdn.net/main-qimg-4472b6229cb75bf66ab531f3ebd4f975-lq target=_blank>Python</a> for ML
   </li>
   <li>
-    Usually playing 💀&nbsp;<a href=https://www.huntshowdown.com/>Hunt Showdown</a> in my free time
+    Usually playing 💀&nbsp;<a href=https://www.huntshowdown.com target=_blank>Hunt Showdown</a> in my free time
   </li>
 </ul>
 
