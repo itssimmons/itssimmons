@@ -1,6 +1,6 @@
 #!/usr/bin/dash
 
-CELSIUS=$(curl -s https://es.wttr.in/Buenos%20Aires?format=1)
+CELSIUS=$(curl -s https://es.wttr.in/Buenos+Aires?format=1&m)
 
 sed -i "/<!--START_SECTION:weather-->/,/<!--END_SECTION:weather-->/c\\
 <!--START_SECTION:weather-->\\
