@@ -1,3 +1,5 @@
+#!/usr/bin/dash
+
 RESPONSE=$(curl -s https://wttr.in?format=3 | sed 's/ //g' | cut -d ":" -f 2)
 CELSIUS=$(echo "$RESPONSE" | cut -c 2-)
 
