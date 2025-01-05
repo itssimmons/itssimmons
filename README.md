@@ -6,9 +6,7 @@
 
 <br>
 
-<!--START_SECTION:weather-->
-- 🥵 Working at <b>28ºC</b>
-<!--END_SECTION:weather-->
+<!--START_SECTION:weather-->- 🌤 Working at <b>��️+28°F</b><!--END_SECTION:weather-->
 - 💻 Currently working in <a href=https://github.com/snapverse/cdn-framework>Cdn Framework</a>
 - 🚩 Mostly active between 9am and 6pm <a href=https://onlinealarmkur.com/world/es>(GMT-3)</a>
 - ⛓️ Let's <a href=https://www.linkedin.com/in/itsimmons>connect</a> on LinkedIn
