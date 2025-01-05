@@ -15,8 +15,12 @@ jobs:
       - name: checkout
         uses: actions/checkout@v2
 
-      - name: print shebang
-        run: readlink -f $(which sh)
+      - name: setup shell
+        run: |
+          export LANG=en_US.UTF-8
+          export LC_ALL=en_US.UTF-8
+          # just to check if my shebang path is still correct
+          echo readlink -f $(which sh)
 
       - name: update readme
         run: sh .scripts/weather-readme.sh
