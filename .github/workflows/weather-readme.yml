@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: update readme
-        run: .scripts/weather-readme.sh
+        run: sh .scripts/weather-readme.sh
 
       - name: setup git config
         run: |
