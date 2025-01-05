@@ -6,15 +6,28 @@
 
 <br>
 
-<!--START_SECTION:weather-->
-- 🥵 Working at <b>28ºC</b>
-<!--END_SECTION:weather-->
-- 💻 Currently working in <a href=https://github.com/snapverse/cdn-framework>CdnFramework</a>
-- 🚩 Mostly active between 9am and 6pm <a href=https://onlinealarmkur.com/world/es>(GMT-3)</a>
-- ⛓️ Let's <a href=https://www.linkedin.com/in/itsimmons>connect</a> on LinkedIn
-- 👴 I’m currently learning <a href=https://images3.memedroid.com/images/UPLOADED755/65f2bce6734f6.webp>C++</a> for Game Dev
-- 🐍 Sometimes learning <a href=https://qph.cf2.quoracdn.net/main-qimg-4472b6229cb75bf66ab531f3ebd4f975-lq>Python</a> for ML & Cloud Computing
-- 🎮 Usually playing <a href=https://www.huntshowdown.com/>Hunt Showdown</a> in my free time
+<ul>
+  <li>
+    <!--START_SECTION:weather-->
+    Working at <b>🥵 28ºC</b>
+    <!--END_SECTION:weather-->
+  </li>
+  <li>
+    Currently working in 🖼️&nbsp;<a href=https://github.com/snapverse/cdn-framework>CdnFramework</a>
+  </li>
+  <li>
+    🚩 Mostly active between 9am and 6pm <a href=https://onlinealarmkur.com/world/es>(GMT-3)</a>
+  </li>
+  <li>
+    🔗 Let's <a href=https://www.linkedin.com/in/itsimmons>connect</a> on LinkedIn
+  </li>
+  <li>
+    Learning 👴&nbsp;<a href=https://images3.memedroid.com/images/UPLOADED755/65f2bce6734f6.webp>C++</a> for Game Dev and 🐍&nbsp;<a href=https://qph.cf2.quoracdn.net/main-qimg-4472b6229cb75bf66ab531f3ebd4f975-lq>Python</a> for ML
+  </li>
+  <li>
+    Usually playing 💀&nbsp;<a href=https://www.huntshowdown.com/>Hunt Showdown</a> in my free time
+  </li>
+</ul>
 
 <h4><b>Last week code session: </b></h4>
 
