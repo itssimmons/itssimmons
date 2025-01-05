@@ -1,13 +1,15 @@
 <h2>:wave: <b>Bienvenido I'm Simon!&nbsp;</b></h2>
 
 <section>
-  <img src="./static/banner.gif" height=300 width=1000 >
+  <img src="./static/banner.gif" height=300 width=1000>
 </section>
 
 <br>
 
-<!--START_SECTION:weather-->- 🌤 Working at <b>��️+28°F</b><!--END_SECTION:weather-->
-- 💻 Currently working in <a href=https://github.com/snapverse/cdn-framework>Cdn Framework</a>
+<!--START_SECTION:weather-->
+- 🥵 Working at <b>28ºC</b>
+<!--END_SECTION:weather-->
+- 💻 Currently working in <a href=https://github.com/snapverse/cdn-framework>CdnFramework</a>
 - 🚩 Mostly active between 9am and 6pm <a href=https://onlinealarmkur.com/world/es>(GMT-3)</a>
 - ⛓️ Let's <a href=https://www.linkedin.com/in/itsimmons>connect</a> on LinkedIn
 - 👴 I’m currently learning <a href=https://images3.memedroid.com/images/UPLOADED755/65f2bce6734f6.webp>C++</a> for Game Dev
