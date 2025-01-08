@@ -34,6 +34,6 @@ jobs:
         run: |
           git add README.md
           git commit -m "Updated weather-readme bullet with new data"
-          git push origin main
+          git push origin main || true
           
       
