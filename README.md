@@ -1,6 +1,6 @@
-<h2>👋 <b>Bienvenido I'm Simon!&nbsp;</b></h2>
+h2>👋 <b>Bienvenido I'm Simon!&nbsp;</b></h2>
 
-<section
+<section>
   <img src="./static/banner.gif" height=300 width=1000Z
 </section>
 
