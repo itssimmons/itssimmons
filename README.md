@@ -9,7 +9,7 @@
 <ul>
   <li>
 		<!--START_SECTION:weather-->
-		Working at <b>☀️   +28°C</b>
+		Working at <b>☀️   +34°C</b>
 		<!--END_SECTION:weather-->
   </li>
   <li>
