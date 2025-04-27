@@ -1,4 +1,4 @@
-<h2>👋 <b>Bienvenido I'm Si!&nbsp;</b></h2>
+<h2>👋 <b>Bienvenido I'm Sim!&nbsp;</b></h2>
 
 <section>
   <img src="./static/banner.gif" height=300 width=1000>
