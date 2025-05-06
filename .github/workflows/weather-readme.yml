@@ -1,10 +1,8 @@
 name: Weather Readme
 
 on:
-  # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 07:00, 18:00 and 22:00. UTC (5:30 AM IST)
     - cron: "0 7,18,22 * * *"
 
 jobs:
@@ -32,8 +30,8 @@ jobs:
 
       - name: commit and push
         run: |
-          git add README.md
-          git commit -m "Updated weather-readme bullet with new data"
+          git add README.md || true
+          git commit -m "Updated weather-readme bullet with new data" || true
           git push origin main || true
           
       
