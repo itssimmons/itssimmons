@@ -16,7 +16,7 @@
     Currently working in 🖼️&nbsp;<a href=https://github.com/snapverse/cdn-framework target=_blank>CdnFramework</a>
   </li>
   <li>
-    🚩 Mostly active between 9am and 6pm <a href=https://onlinealarmkur.com/world/es target=_blank>(GMT-3)</a>
+    Mostly active between 9am and 6pm 🚩 <a href=https://onlinealarmkur.com/world/es target=_blank>(GMT-3)</a>
   </li>
   <li>
     Let's 🔗&nbsp;<a href=https://www.linkedin.com/in/itssimmons target=_blank>connect</a> on LinkedIn
