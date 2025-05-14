@@ -1,5 +1,5 @@
 <h2>:wave: <b>Bienvenido I'm Simon!&nbsp;</b></h2>
-<b><i>A TypeScript & Google Cloud Enthusiast</i></b>
+<b><i>A TypeScript & Cloud Enthusiast</i></b>
 <br/><br/>
 
 <section>
