@@ -1,6 +1,4 @@
 <h2>:wave: <b>Bienvenido I'm Simon!&nbsp;</b></h2>
-<b><i>A TypeScript & Cloud Enthusiast</i></b>
-<br/><br/>
 
 <section>
   <img src="./static/banner.gif" height=300 width=1000>
