@@ -1,7 +1,7 @@
 <h2>:wave: <b>Bienvenido I'm Simon!&nbsp;</b></h2>
 
 <section>
-  <img src="./static/banner.gifht=300 width=1000>
+  <img src="./static/banner.gif" ht=300 width=1000>
 </section>
 
 <br>
