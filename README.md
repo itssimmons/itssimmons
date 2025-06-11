@@ -12,7 +12,7 @@
   </li>
   <li>
 		<!--START_SECTION:weather-->
-		Working at <b>☀️   +10°C</b>
+		Working at <b>Unknown location; please try ~-34.6075797,-58.4375796</b>
 		<!--END_SECTION:weather-->
   </li>
   <li>
