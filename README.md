@@ -12,7 +12,7 @@
   </li>
   <li>
 		<!--START_SECTION:weather-->
-		Working at <b>⛅️  +5°C</b>
+		Working at <b>☀️   +1°C</b>
 		<!--END_SECTION:weather-->
   </li>
   <li>
