@@ -12,7 +12,7 @@
   </li>
   <li>
 		<!--START_SECTION:weather-->
-		Working at <b>🌧   +17°C</b>
+		Working at <b>🌦   +13°C</b>
 		<!--END_SECTION:weather-->
   </li>
   <li>
