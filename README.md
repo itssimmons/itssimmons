@@ -11,6 +11,9 @@
      Loving 🤍 OSS
   </li>
   <li>
+    Building my dream&nbsp;<a href=https://github.com/snapverse target=_blank>Snapverse™</a> 🪐
+  </li>
+  <li>
 		<!--START_SECTION:weather-->
 		Working at <b>☀️   +7°C</b>
 		<!--END_SECTION:weather-->
@@ -28,7 +31,7 @@
     Learning 👴&nbsp;<a href=https://images3.memedroid.com/images/UPLOADED755/65f2bce6734f6.webp target=_blank>C++</a> for Game Dev and 🐍&nbsp;<a href=https://qph.cf2.quoracdn.net/main-qimg-4472b6229cb75bf66ab531f3ebd4f975-lq target=_blank>Python</a> for Automation
   </li>
   <li>
-    Some days 💀&nbsp;<a href=https://www.huntshowdown.com target=_blank>Hunt Showdown</a> to avoid the burnout
+    Some days 💀&nbsp;<a href=https://www.huntshowdown.com target=_blank>Hunt: Showdown 1986</a> to avoid the burnout
   </li>
 </ul>
 
