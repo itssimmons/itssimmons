@@ -28,7 +28,7 @@
     Learning 👴&nbsp;<a href=https://images3.memedroid.com/images/UPLOADED755/65f2bce6734f6.webp target=_blank>C++</a> for Game Dev and 🐍&nbsp;<a href=https://qph.cf2.quoracdn.net/main-qimg-4472b6229cb75bf66ab531f3ebd4f975-lq target=_blank>Python</a> for Automation
   </li>
   <li>
-    Usually playing 💀&nbsp;<a href=https://www.huntshowdown.com target=_blank>Hunt Showdown</a> in my free time
+    Some days 💀&nbsp;<a href=https://www.huntshowdown.com target=_blank>Hunt Showdown</a> to avoid the burnout
   </li>
 </ul>
 
