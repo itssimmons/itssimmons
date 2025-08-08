@@ -48,3 +48,5 @@ PHP           39 mins         █░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+<sup>If you don't see any activity here, I'm probably on holiday 🪁... or I might be dead 💀</sup>
