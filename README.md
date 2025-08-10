@@ -2,7 +2,7 @@
 
 
   <img src="./static/banner.gif" height=300 width=1000>
-</section>
+
 
 <br>
 
