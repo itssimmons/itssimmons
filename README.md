@@ -39,11 +39,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Image (svg)    5 hrs 9 mins    ██████████░░░░░░░░░░░░░░░   39.48 %
-TypeScript     3 hrs           █████▓░░░░░░░░░░░░░░░░░░░   23.01 %
-Other          2 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
-Python         1 hr 33 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
-HTTP Request   39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+Python         6 hrs 40 mins   █████████░░░░░░░░░░░░░░░░   36.45 %
+Image (svg)    5 hrs 9 mins    ███████░░░░░░░░░░░░░░░░░░   28.15 %
+TypeScript     3 hrs           ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
+Other          2 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
+HTTP Request   39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
 ```
 
 <!--END_SECTION:waka-->
