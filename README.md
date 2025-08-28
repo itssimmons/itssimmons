@@ -1,4 +1,4 @@
-<h2>🤠 <b
+<h2>🤠 <b>Bienvenido
 
 <section>
 	<img src="./static/banner.gif" height=300 width=1000>	
