@@ -40,9 +40,9 @@
     Building my dream&nbsp;<a href=https://github.com/snapverse target=_blank>Snapverse™</a> 🪐
   </li>
   <li>
-    <!--START_SECTION:weather-->
-    Working at <b>☀️   +19°C</b>
-    <!--END_SECTION:weather-->
+		<!--START_SECTION:weather-->
+		Working at <b>Unknown location; please try ~-34.6075797,-58.4375796</b>
+		<!--END_SECTION:weather-->
   </li>
   <li>
     Currently working in 💬&nbsp;<a href=https://github.com/itssimmons?tab=repositories&q=modzilla&type=source&language=&sort= target=_blank>Modzilla</a>
