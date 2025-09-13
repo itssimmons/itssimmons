@@ -1,29 +1,34 @@
-<h2>👋 Welcome Simon (sy-mon) here!&nbsp;</b></h2>
+<h2>
+  <!--START_SECTION:emoji-->
+  😛
+  <!--END_SECTION:emoji-->
+  Welcome Simon (sy-mon) here!
+</h2>
 
 <table border=0>
-	<tbody>	
-		<tr>
-			<td>
-				<a href=linkedin.com/in/itssimmons>
-					<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png height=20>
-				</a>
-			</td>
-			<td>
-				<a href=https://stackoverflow.com/users/18514274>
-					<img src=https://images.icon-icons.com/2108/PNG/512/stackoverflow_icon_130823.png height=20>
-				</a>
-			</td>
-			<td>
-				<a href=https://www.codewars.com/users/itssimmons>
-					<img src=https://www.codewars.com/users/itssimmons/badges/micro>
-				</a>
-			</td>
-		</tr>
-	</tbody>
+ <tbody>
+  <tr>
+   <td>
+    <a href=linkedin.com/in/itssimmons>
+     <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png height=20>
+    </a>
+   </td>
+   <td>
+    <a href=https://stackoverflow.com/users/18514274>
+     <img src=https://images.icon-icons.com/2108/PNG/512/stackoverflow_icon_130823.png height=20>
+    </a>
+   </td>
+   <td>
+    <a href=https://www.codewars.com/users/itssimmons>
+     <img src=https://www.codewars.com/users/itssimmons/badges/micro>
+    </a>
+   </td>
+  </tr>
+ </tbody>
 </table>
 
 <section>
-	<img src=./static/banner.gif height=300 width=1000>	
+ <img src=./static/banner.gif height=300 width=1000>
 </section>
 <br/>
 
@@ -35,9 +40,9 @@
     Building my dream&nbsp;<a href=https://github.com/snapverse target=_blank>Snapverse™</a> 🪐
   </li>
   <li>
-		<!--START_SECTION:weather-->
-		Working at <b>☀️   +19°C</b>
-		<!--END_SECTION:weather-->
+    <!--START_SECTION:weather-->
+    Working at <b>☀️   +19°C</b>
+    <!--END_SECTION:weather-->
   </li>
   <li>
     Currently working in 💬&nbsp;<a href=https://github.com/itssimmons?tab=repositories&q=modzilla&type=source&language=&sort= target=_blank>Modzilla</a>
@@ -75,7 +80,6 @@ Other         18 mins         ▒░░░░░░░░░░░░░░░�
 <h3>Today's quote 🤔...</h3>
 
 <!--START_SECTION:quote-->
-
 <blockquote cite="http://example.com/source.html">
   <p>“Be yourself; everyone else is already taken.”</p>
   <cite>― Oscar Wilde</cite>
