@@ -1,7 +1,29 @@
-<h2>👋 <b>Bienvenido, I'm Simon!&nbsp;</b></h2>
+<h2>👋 Welcome Simon (sy-mon) here!&nbsp;</b></h2>
+
+<table border=0>
+	<tbody>	
+		<tr>
+			<td>
+				<a href=linkedin.com/in/itssimmons>
+					<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png height=20>
+				</a>
+			</td>
+			<td>
+				<a href=https://stackoverflow.com/users/18514274>
+					<img src=https://images.icon-icons.com/2108/PNG/512/stackoverflow_icon_130823.png height=20>
+				</a>
+			</td>
+			<td>
+				<a href=https://www.codewars.com/users/itssimmons>
+					<img src=https://www.codewars.com/users/itssimmons/badges/micro>
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 <section>
-	<img src="./static/banner.gif" height=300 width=1000>	
+	<img src=./static/banner.gif height=300 width=1000>	
 </section>
 <br/>
 
@@ -49,3 +71,14 @@ JSON          21 mins         ▒░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <sup>If you don't see any activity here, I'm probably on holiday 🪁... or I might be dead 💀</sup>
+
+<h3>Today's quote 🤔...</h3>
+
+<!--START_SECTION:quote-->
+
+<blockquote cite="http://example.com/source.html">
+  <p>“Be yourself; everyone else is already taken.”</p>
+  <cite>― Oscar Wilde</cite>
+</blockquote>
+
+<!--END_SECTION:quote-->
