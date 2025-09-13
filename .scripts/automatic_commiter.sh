@@ -20,13 +20,9 @@ do_change() {
   sed -i '' "/<!--START_SECTION:emoji-->/,/<!--END_SECTION:emoji-->/c\\
   <!--START_SECTION:emoji-->\\
   ${emoji}\\
-  <!--END_SECTION:emoji-->\
+  <!--END_SECTION:emoji-->\\
 " README.md
 }
-
-do_change
-
-exit 0
 
 commit_dates=()
 
@@ -54,8 +50,8 @@ diff=$(($to_days - $from_days))
 i=0
 
 while [ $i -le $diff ]; do
-  new_date=$(gdate -d "$FROM +$i days" +"%FT12:00:00 -0300")
-  commit_dates+=($new_date)
+  new_date=$(gdate -d "$FROM +$i days" +"%FT12:00:00")
+  commit_dates+=("$new_date -0300")
   
   ((i++))
 done
