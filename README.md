@@ -1,6 +1,6 @@
 <h2>
   <!--START_SECTION:emoji-->
-  🤑
+  👾
   <!--END_SECTION:emoji-->
   Welcome Simon (sy-mon) here!
 </h2>
