@@ -77,12 +77,78 @@ Docker         22 mins         ▒░░░░░░░░░░░░░░░�
 
 <sup>If you don't see any activity here, I'm probably on holiday 🪁... or I might be dead 💀</sup>
 
-<h3>Today's quote 🤔...</h3>
+<h3>🏆 Latest Hackathon Participations.</h3>
 
-<!--START_SECTION:quote-->
-<blockquote cite="http://example.com/source.html">
-  <p>“Be yourself; everyone else is already taken.”</p>
-  <cite>― Oscar Wilde</cite>
-</blockquote>
-
-<!--END_SECTION:quote-->
+<table>
+  <thead>
+    <tr>
+		<th>Year</th>
+		<th>Sponsored By</th>
+		<th>Source Code</th>
+		<th>Preview</th>
+		<th>Qualification</th>
+    </tr>
+  </thead>
+  <tbody>
+	<tr>
+		<td>2025</td>
+		<td>
+			<a href=https://googlechromeai2025.devpost.com>Google Chrome AI 2025 x DevPost</a>
+		</td>
+		<td>
+			<a href=https://github.com/itssimmons/#>itssimmons/...</a>
+		</td>
+		<td>
+			<a href=#>Unknown</a>
+		</td>
+		<td>
+			<a href=#>Working on it...</a>
+		</td>
+	</tr>
+	<tr>
+		<td>2025</td>
+		<td>
+			<a href=https://contra.com/community/topic/figmamakeathon>Figma x Contra</a>
+		</td>
+		<td>
+			<a href=https://www.figma.com/community/file/1547880152145128022>snapverse/the-last-cabin</a>
+		</td>
+		<td>
+			<a href=https://school-small-63686328.figma.site/>The Last Cabin</a>
+		</td>
+		<td>
+			<a href=#>N/A</a>
+		</td>
+	</tr>
+	<tr>
+		<td>2024</td>
+		<td>
+			<a href=https://ai.google.dev/competition>AI Google Dev</a>
+		</td>
+		<td>
+			<a href=https://github.com/itssimmons/gemi-slices>itssimmons/gemi-slices</a>
+		</td>
+		<td>
+			<a href=#>Gemi Slices</a>
+		</td>
+		<td>
+			<a href=#>N/A</a>
+		</td>
+	</tr>
+	<tr>
+		<td>2022</td>
+		<td>
+			<a href=https://www.itau.com.py>Itaú Paraguay</a>
+		</td>
+		<td>
+			<a href=https://github.com/snapverse/threejs-interactive-story>snapverse/threejs-interactive-story</a>
+		</td>
+		<td>
+			<a href=https://losparecidosanosotros.vercel.app>Los Parecidos a Nosotros</a>
+		</td>
+		<td>
+			<a href=https://www.abc.com.py/espectaculos/literatura/2022/11/25/paraguay-se-destaca-en-el-premio-itau-de-cuento-digital/>1st Place Paraguay</a>
+		</td>
+	</tr>
+  </tbody>
+</table>
