@@ -93,7 +93,7 @@ YAML           34 mins         █░░░░░░░░░░░░░░░�
 	<tr>
 		<td>2025</td>
 		<td>
-			<a href=https://googlechromeai2025.devpost.com>Google Chrome AI 2025 x DevPost</a>
+			<a href=https://googlechromeai2025.devpost.com>Google Chrome Built-in AI Challenge 2025</a>
 		</td>
 		<td>
 			<a href=https://github.com/itssimmons/#>itssimmons/...</a>
@@ -108,7 +108,22 @@ YAML           34 mins         █░░░░░░░░░░░░░░░�
 	<tr>
 		<td>2025</td>
 		<td>
-			<a href=https://contra.com/community/topic/figmamakeathon>Figma x Contra</a>
+			<a href=https://mhcp-mobile-genre-2.devpost.com>Meta Horizon Creator Competition: Mobile Genre Showdown - Reloaded</a>
+		</td>
+		<td>
+			<a href=https://github.com/itssimmons/#>itssimmons/...</a>
+		</td>
+		<td>
+			<a href=#>Unknown</a>
+		</td>
+		<td>
+			<a href=#>Working on it...</a>
+		</td>
+	</tr>
+	<tr>
+		<td>2025</td>
+		<td>
+			<a href=https://contra.com/community/topic/figmamakeathon>Figma Make-a-thon</a>
 		</td>
 		<td>
 			<a href=https://www.figma.com/community/file/1547880152145128022>snapverse/the-last-cabin</a>
@@ -123,13 +138,13 @@ YAML           34 mins         █░░░░░░░░░░░░░░░�
 	<tr>
 		<td>2024</td>
 		<td>
-			<a href=https://ai.google.dev/competition>AI Google Dev</a>
+			<a href=https://ai.google.dev/competition>Gemini API Developer Competition</a>
 		</td>
 		<td>
 			<a href=https://github.com/itssimmons/gemi-slices>itssimmons/gemi-slices</a>
 		</td>
 		<td>
-			<a href=#>Gemi Slices</a>
+			<a href=https://youtu.be/XVpmZRqu7Xw>Gemi Slices Video Showcase</a>
 		</td>
 		<td>
 			<a href=#>N/A</a>
@@ -138,7 +153,7 @@ YAML           34 mins         █░░░░░░░░░░░░░░░�
 	<tr>
 		<td>2022</td>
 		<td>
-			<a href=https://www.itau.com.py>Itaú Paraguay</a>
+			<a href=https://www.itau.com.py>Itaú de Cuento Digital</a>
 		</td>
 		<td>
 			<a href=https://github.com/snapverse/threejs-interactive-story>snapverse/threejs-interactive-story</a>
