@@ -96,10 +96,10 @@ YAML           34 mins         █░░░░░░░░░░░░░░░�
 			<a href=https://googlechromeai2025.devpost.com>Google Chrome Built-in AI Challenge 2025</a>
 		</td>
 		<td>
-			<a href=https://github.com/itssimmons/#>itssimmons/...</a>
+			<a href=https://github.com/itssimmons/sand.ia>itssimmons/sand.ia</a>
 		</td>
 		<td>
-			<a href=#>Unknown</a>
+			<a href=#>Sand.IA</a>
 		</td>
 		<td>
 			<a href=#>Working on it...</a>
@@ -111,10 +111,10 @@ YAML           34 mins         █░░░░░░░░░░░░░░░�
 			<a href=https://mhcp-mobile-genre-2.devpost.com>Meta Horizon Creator Competition: Mobile Genre Showdown - Reloaded</a>
 		</td>
 		<td>
-			<a href=https://github.com/itssimmons/#>itssimmons/...</a>
+			<a href=https://github.com/itssimmons/the-last-cabin-remastered>itssimmons/the-last-cabin-remastered</a>
 		</td>
 		<td>
-			<a href=#>Unknown</a>
+			<a href=#>The Last Cabin Remastered</a>
 		</td>
 		<td>
 			<a href=#>Working on it...</a>
