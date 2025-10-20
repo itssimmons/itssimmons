@@ -61,7 +61,7 @@
   </li>
 </ul>
 
-<h2><b>Weekly coding breakdown </b></h2>
+<h2>💻 Weekly coding breakdown</h2>
 
 <!--START_SECTION:waka-->
 
@@ -77,7 +77,7 @@ Bash           38 mins         █▒░░░░░░░░░░░░░░�
 
 <sup>If you don't see any activity here, I'm probably on holiday 🪁... or I might be dead 💀</sup>
 
-<h3>🏆 Latest Hackathon Participations.</h3>
+<h2>🏆 Latest Hackathon Participations</h2>
 
 <table>
   <thead>
