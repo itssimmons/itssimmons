@@ -34,9 +34,6 @@
 
 <ul>
   <li>
-     🐧 UNIX user
-  </li>
-  <li>
      Loving 🤍 OSS
   </li>
   <li>
