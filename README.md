@@ -108,21 +108,6 @@ CSS          29 mins         █░░░░░░░░░░░░░░░░
 	<tr>
 		<td>2025</td>
 		<td>
-			<a href=https://mhcp-mobile-genre-2.devpost.com>Meta Horizon Creator Competition: Mobile Genre Showdown - Reloaded</a>
-		</td>
-		<td>
-			<a href=https://github.com/itssimmons/the-last-cabin-remastered>itssimmons/the-last-cabin-remastered</a>
-		</td>
-		<td>
-			<a href=#>The Last Cabin Remastered</a>
-		</td>
-		<td>
-			<a href=#>Working on it...</a>
-		</td>
-	</tr>
-	<tr>
-		<td>2025</td>
-		<td>
 			<a href=https://contra.com/community/topic/figmamakeathon>Figma Make-a-thon</a>
 		</td>
 		<td>
