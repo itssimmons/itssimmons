@@ -51,7 +51,7 @@
     Mostly active between 9am and 6pm 🚩 <a href=https://onlinealarmkur.com/world/es target=_blank>(GMT-3)</a>
   </li>
   <li>
-    Let's 🔗&nbsp;<a href=https://www.linkedin.com/in/itssimmons target=_blank>Connect</a> on LinkedIn
+    Let's 🔗&nbsp;<a href=https://www.linkedin.com/in/itssimmons target=_blank>connect</a> on LinkedIn
   </li>
   <li>
     Learning 👴&nbsp;<a href=https://images3.memedroid.com/images/UPLOADED755/65f2bce6734f6.webp target=_blank>C++</a> for Game Dev and 🐍&nbsp;<a href=https://qph.cf2.quoracdn.net/main-qimg-4472b6229cb75bf66ab531f3ebd4f975-lq target=_blank>Python</a> for Automation
@@ -97,6 +97,7 @@ CSS          29 mins         █░░░░░░░░░░░░░░░░
 		</td>
 		<td>
 			<a href=https://github.com/itssimmons/sand.ia>itssimmons/sand.ia</a>
+			<a href=https://github.com/itssimmons/api.sand.ia>itssimmons/api.sand.ia</a>
 		</td>
 		<td>
 			<a href=#>Sand.IA</a>
