@@ -103,7 +103,7 @@ SQL            32 mins         █▒░░░░░░░░░░░░░░�
 			<a href=#>Sand.IA</a>
 		</td>
 		<td>
-			<a href=#>Working on it...</a>
+			<a href=#>N/A</a>
 		</td>
 	</tr>
 	<tr>
