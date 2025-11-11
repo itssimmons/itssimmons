@@ -66,11 +66,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML           9 hrs 8 mins    ████████▒░░░░░░░░░░░░░░░░   33.14 %
-Bash           6 hrs 7 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.21 %
-Other          3 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
-shell script   3 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
-TypeScript     2 hrs 27 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+YAML           9 hrs 8 mins    ████████░░░░░░░░░░░░░░░░░   32.05 %
+Bash           6 hrs 7 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.49 %
+Other          3 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
+shell script   3 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+TypeScript     2 hrs 54 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
 ```
 
 <!--END_SECTION:waka-->
