@@ -41,7 +41,7 @@
   </li>
   <li>
 		<!--START_SECTION:weather-->
-		Working at <b>☀️   +18°C</b>
+		Working at <b></b>
 		<!--END_SECTION:weather-->
   </li>
   <li>
