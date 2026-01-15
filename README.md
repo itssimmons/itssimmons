@@ -1,6 +1,6 @@
 <h2>
-  <!--START_SECTION:emoji-->
-😀
+<!--START_SECTION:emoji-->
+🤠
 <!--END_SECTION:emoji-->
   Welcome Simon (sy-mon) here!
 </h2>
@@ -45,7 +45,7 @@
 		<!--END_SECTION:weather-->
   </li>
   <li>
-    Currently working on <a href=https://github.com/helix-server target=_blank>🐥 Helix Server</a>
+    Currently working on a TCP/IP module for <a href=https://github.com/helix-server target=_blank>🐥 Helix Server</a> library
   </li>
   <li>
     Mostly active between 9am and 6pm 🚩 <a href=https://onlinealarmkur.com/world/es target=_blank>(GMT-3)</a>
