@@ -25,13 +25,11 @@ jobs:
 
       - name: setup git config
         run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "<>"
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
 
       - name: commit and push
         run: |
           git add README.md || true
           git commit -m "Updated weather-readme bullet with new data" || true
           git push origin main || true
-          
-      
