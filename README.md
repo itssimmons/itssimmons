@@ -48,9 +48,6 @@
     Currently working on a TCP/IP module for the <a href=https://github.com/helix-server target=_blank>🐥 Helix Server</a> library
   </li>
   <li>
-    Mostly active between 9am and 6pm 🚩 <a href=https://onlinealarmkur.com/world/es target=_blank>(GMT-3)</a>
-  </li>
-  <li>
     Let's 🔗&nbsp;<a href=https://www.linkedin.com/in/itssimmons target=_blank>connect</a> on LinkedIn
   </li>
   <li>
