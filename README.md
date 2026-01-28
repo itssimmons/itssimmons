@@ -113,7 +113,7 @@ JSON           47 mins         ▓░░░░░░░░░░░░░░░�
 	</li>
 	<li>
 		<img width="16" height="16" src="https://github.com/user-attachments/assets/e14faee1-c4cb-452f-be41-1498e4615433" />
-		<a href=#>Snapchat/Valdi</a> Finding interest for this new snapchat UI-Framework
+		<a href=#>Snapchat/Valdi</a> Finding an interest in the recently released OSS UI-Framework "Valdi"
 	</li>
 	<li>
 		More coming...
