@@ -74,6 +74,49 @@ JSON           47 mins         ▓░░░░░░░░░░░░░░░�
 
 <sup>If you don't see any activity here, I'm probably on holiday 🪁... or I might be dead 💀</sup>
 
+<h2>🗂️ Current projects</h2>
+
+<ul>
+	<li>
+		🐥 <a href=#>@helix-server/helix</a> Monorepo of the Helix project, API Framework made in Bun and C++.
+	</li>
+	<li>
+		🐥 <a href=#>@helix-server/tcp</a> Module of the Helix project, to handle the TCP protocol at the low level using C++.
+	</li>
+	<li>
+		🎨 <a href=#>@snapverse/snap-gui</a> Fully animated, elegant, and performant system design.
+	</li>
+	<li>
+		🧩 <a href=#>@snapverse/gce-cli</a> The new way of create extensions to Google Chrome.
+	</li>
+	<li>
+		🚨 <a href=#>@snapverse/headlight</a> The self-hosted way to trace your platform end-to-end.
+	</li>
+	<li>
+		🥋 <a href=#>dojoh.dev</a> 1v1 multiplayer platform for code sparring.
+	</li>
+	<li>
+		More coming...
+	</li>
+</ul>
+
+<h2>🤝 Contributing in</h2>
+
+<ul>
+	<li>
+		<img width="16" height="16" src="https://github.com/user-attachments/assets/3105210e-1173-4506-a5ef-8017cf41af4f" />
+		<a href=#>microsoft/typescript-go</a> Contributing with the porting of the TypeScript language to Golang
+	</li>
+	<li>
+		<img width="16" height="16" src="https://github.com/user-attachments/assets/c8cf4d65-bac8-4d4f-9891-7cc536c555b2" />
+		<a href=#>zed-industries/zed</a> Helping to grow my favourite code editor.
+	</li>
+	<li>
+		More coming...
+	</li>
+	
+</ul>
+
 <h2>🏆 Latest Hackathon Participations</h2>
 
 <table>
