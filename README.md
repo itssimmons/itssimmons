@@ -112,9 +112,12 @@ JSON           47 mins         ▓░░░░░░░░░░░░░░░�
 		<a href=#>zed-industries/zed</a> Helping to grow my favourite code editor.
 	</li>
 	<li>
+		<img width="16" height="16" src="https://github.com/user-attachments/assets/e14faee1-c4cb-452f-be41-1498e4615433" />
+		<a href=#>Snapchat/Valdi</a> Finding interest for this new snapchat UI-Framework
+	</li>
+	<li>
 		More coming...
 	</li>
-	
 </ul>
 
 <h2>🏆 Latest Hackathon Participations</h2>
