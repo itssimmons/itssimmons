@@ -63,11 +63,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++                        15 hrs 44 mins  ██████████████████▓░░░░░░   74.79 %
-Other                      1 hr 44 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
-HTTP Request               47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-shell script               36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-Nginx configuration file   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+C++                        14 hrs 44 mins  ██████████████████▓░░░░░░   74.46 %
+Other                      1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+HTTP Request               47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+shell script               36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+Nginx configuration file   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 ```
 
 <!--END_SECTION:waka-->
