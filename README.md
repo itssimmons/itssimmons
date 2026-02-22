@@ -37,7 +37,7 @@
      Loving 🤍 OSS
   </li>
   <li>
-    Building my dream&nbsp;<a href=https://github.com/snapverse target=_blank>Snapverse™ 🪐</a>
+    Building my dream&nbsp;<a href=https://github.com/snapverse target=_blank>snapverse™ 🪐</a>
   </li>
   <li>
 		<!--START_SECTION:weather-->
@@ -78,22 +78,22 @@ SQL              49 mins               █░░░░░░░░░░░░�
 
 <ul>
 	<li>
-		🐥 <a href=#>@helix-server/helix</a> Monorepo of the Helix project, API Framework made in Bun and C++.
+		🐥 <a href=https://github.com/helix-server/helix>@helix-server/helix</a> Monorepo of the Helix project, API Framework made in Bun and C++.
 	</li>
 	<li>
-		🐥 <a href=#>@helix-server/tcp</a> Module of the Helix project, to handle the TCP protocol at the low level using C++.
+		🐥 <a href=https://github.com/helix-server/helix/tree/main/packages/tcp>@helix-server/tcp</a> Module of the Helix project, to handle the TCP protocol at the low level using C++.
 	</li>
 	<li>
-		🎨 <a href=#>@snapverse/snap-gui</a> Fully animated, elegant, and performant system design.
+		🎨 <a href=https://github.com/snapverse/snap-ui>@snapverse/snap-gui</a> Fully animated, elegant, and performant system design.
 	</li>
 	<li>
-		🧩 <a href=#>@snapverse/gce-cli</a> The new way of create extensions to Google Chrome.
+		🧩 <a href=https://github.com/snapverse/gce-cli>@snapverse/gce-cli</a> The new way of create extensions to Google Chrome.
 	</li>
 	<li>
-		🚨 <a href=#>@snapverse/headlight</a> The self-hosted way to trace your platform end-to-end.
+		🚨 <a href=https://github.com/snapverse/headlight>@snapverse/headlight</a> The self-hosted way to trace your platform end-to-end.
 	</li>
 	<li>
-		🥋 <a href=#>dojoh.dev</a> 1v1 multiplayer platform for code sparring.
+		🥋 <a href=https://github.com/dojoh-dev>dojoh.dev</a> 1v1 multiplayer platform for code sparring.
 	</li>
 	<li>
 		More coming...
@@ -105,15 +105,15 @@ SQL              49 mins               █░░░░░░░░░░░░�
 <ul>
 	<li>
 		<img width="16" height="16" src="https://github.com/user-attachments/assets/3105210e-1173-4506-a5ef-8017cf41af4f" />
-		<a href=#>microsoft/typescript-go</a> Contributing with the porting of the TypeScript language to Golang
+		<a href=https://github.com/microsoft/typescript-go>microsoft/typescript-go</a> Contributing with the porting of the TypeScript language to Golang
 	</li>
 	<li>
 		<img width="16" height="16" src="https://github.com/user-attachments/assets/c8cf4d65-bac8-4d4f-9891-7cc536c555b2" />
-		<a href=#>zed-industries/zed</a> Helping to grow my favourite code editor.
+		<a href=https://github.com/zed-industries/zed>zed-industries/zed</a> Helping to grow my favourite code editor.
 	</li>
 	<li>
 		<img width="16" height="16" src="https://github.com/user-attachments/assets/e14faee1-c4cb-452f-be41-1498e4615433" />
-		<a href=#>Snapchat/Valdi</a> Finding an interest in the recently released OSS UI-Framework "Valdi"
+		<a href=https://github.com/Snapchat/Valdi>Snapchat/Valdi</a> Finding an interest in the recently released OSS UI-Framework "Valdi"
 	</li>
 	<li>
 		More coming...
