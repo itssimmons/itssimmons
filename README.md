@@ -116,6 +116,10 @@ TypeScript       1 hr 4 mins           █▒░░░░░░░░░░░�
 		<a href=https://github.com/Snapchat/Valdi>Snapchat/Valdi</a> Finding an interest in the recently released OSS UI-Framework "Valdi"
 	</li>
 	<li>
+		<img width="16" height="16" alt="Ladybird logo" src="https://github.com/user-attachments/assets/cede8986-d0c8-4fcc-97bb-24c8002ad9e0" />
+		<a href="https://github.com/LadybirdBrowser/ladybird">LadybirdBrowser/ladybird</a> Contributing to the advancement of a modern, independent browser engine.
+	</li>
+	<li>
 		More coming...
 	</li>
 </ul>
