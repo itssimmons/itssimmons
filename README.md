@@ -72,7 +72,8 @@ JSON             1 hr 21 mins          █▒░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<sup>If you don't see any activity here, I'm probably on holiday 🪁... or I might be dead 💀</sup>
+<sup>If you don't see any activity here, I'm probably on holiday 🪁... or I might be dead 💀</sup><br/>
+<sup>By the way, you may find the full insights here: https://wakatime.com/@itssimmons</sup>
 
 <h2>🗂️ Current projects</h2>
 
