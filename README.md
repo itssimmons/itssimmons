@@ -97,6 +97,9 @@ JSON           44 mins               █▒░░░░░░░░░░░░�
 		🥋 <a href=https://github.com/dojoh-dev>dojoh.dev</a> 1v1 multiplayer platform for code sparring.
 	</li>
 	<li>
+		🪁 <a href=https://github.com/itssimmons/kometa>itssimmons/kometa</a> Lightweight and straightforward hardware metrics collector
+	</li>
+	<li>
 		More coming...
 	</li>
 </ul>
