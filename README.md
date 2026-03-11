@@ -85,7 +85,10 @@ Docker         1 hr 42 mins          █▓░░░░░░░░░░░░�
 		🐥 <a href=https://github.com/helix-server/helix/tree/main/packages/tcp>@helix-server/tcp</a> Module of the Helix project, to handle the TCP protocol at the low level using C++.
 	</li>
 	<li>
-		🎨 <a href=https://github.com/snapverse/snap-ui>@snapverse/snap-gui</a> Fully animated, elegant, and performant system design.
+		🎨 <a href=https://github.com/snapverse/ui-kit>@snapverse/ui-kit</a> Fully animated, elegant, and performant system design.
+	</li>
+	<li>
+		🎨 <a href=https://github.com/snapverse/stylish>@snapverse/stylish</a> Unstyled design system for your future Design Systems
 	</li>
 	<li>
 		🧩 <a href=https://github.com/snapverse/gce-cli>@snapverse/gce-cli</a> The new way of create extensions to Google Chrome.
