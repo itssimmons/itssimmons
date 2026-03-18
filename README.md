@@ -41,7 +41,7 @@
   </li>
   <li>
 		<!--START_SECTION:weather-->
-		Working at <b>🌦   +21°C</b>
+		Working at <b>Get "http://es.wttr.in/Buenos%20Aires?format=1&m": context deadline exceeded (Client.Timeout exceeded while awaiting headers)</b>
 		<!--END_SECTION:weather-->
   </li>
   <li>
