@@ -63,11 +63,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash             4 hrs 5 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.92 %
-terraform        3 hrs 23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
-Terraform        3 hrs 17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.85 %
-Other            2 hrs 45 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
-shell script     2 hrs 10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
+Bash             2 hrs 55 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
+Other            2 hrs 45 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
+shell script     2 hrs 1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
+TypeScript       1 hr 44 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+terraform        1 hr 40 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
 ```
 
 <!--END_SECTION:waka-->
