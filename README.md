@@ -41,7 +41,7 @@
   </li>
   <li>
 		<!--START_SECTION:weather-->
-		Working at <b>☁️   +19°C</b>
+		Working at <b>render failed: response missing current_condition array</b>
 		<!--END_SECTION:weather-->
   </li>
   <li>
