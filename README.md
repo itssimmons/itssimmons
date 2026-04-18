@@ -54,7 +54,7 @@
     Learning 👴&nbsp;<a href=https://images3.memedroid.com/images/UPLOADED755/65f2bce6734f6.webp target=_blank>C++</a> for Game Dev and 🐀&nbsp;<a href=https://pbs.twimg.com/media/EuxVxGBXcAIwzpq.jpg target=_blank>Go</a> for fun
   </li>
   <li>
-    Sometimes playing 💀&nbsp;<a href=https://www.huntshowdown.com target=_blank>Hunt: Showdown 1986</a> to avoid the burnout
+    Cooking 🍳&nbsp;<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOfu15ZcMG0lL1UHb43WWJB5kmVbesZuMkow&s" target=_blank>beats</a> time-totime as a hobbie
   </li>
 </ul>
 
