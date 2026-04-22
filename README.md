@@ -63,11 +63,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     11 hrs 13 mins        █████████████▓░░░░░░░░░░░   54.28 %
-Other          4 hrs 32 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.93 %
-HTTP Request   2 hrs 36 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
-Prisma         38 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-shell script   30 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+TypeScript     15 hrs 27 mins        ███████████████▓░░░░░░░░░   62.90 %
+Other          4 hrs 24 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
+HTTP Request   2 hrs 18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
+Prisma         38 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+shell script   34 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
 ```
 
 <!--END_SECTION:waka-->
