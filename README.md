@@ -41,7 +41,7 @@
   </li>
   <li>
 		<!--START_SECTION:weather-->
-		Working at <b>weather data source not available</b>
+		Working at <b>☀️   +22°C</b>
 		<!--END_SECTION:weather-->
   </li>
   <li>
