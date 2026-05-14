@@ -34,7 +34,7 @@
 
 <ul>
   <li>
-     🥇 Open Source first
+     🥇 Open Source 1st
   </li>
   <li>
     Building my dream&nbsp;<a href=https://github.com/snapverse target=_blank>snapverse™ 🪐</a>
@@ -45,7 +45,7 @@
 		<!--END_SECTION:weather-->
   </li>
   <li>
-    Currently working on <a href=https://dojoh.dev target=_blank>🥋 dojoh.dev</a>, I can't wait to release it!
+    Currently working on <a href=https://dojoh.dev target=_blank>🥋 @dojoh.dev</a>
   </li>
   <li>
     Let's 🔗&nbsp;<a href=https://www.linkedin.com/in/itssimmons target=_blank>connect</a> on LinkedIn
@@ -97,7 +97,7 @@ shell script   53 mins               █░░░░░░░░░░░░░�
 		🚨 <a href=https://github.com/snapverse/headlight>@snapverse/headlight</a> The self-hosted way to trace your platform end-to-end.
 	</li>
 	<li>
-		🥋 <a href=https://github.com/dojoh-dev>dojoh.dev</a> 1v1 multiplayer platform for code sparring.
+		🥋 <a href=https://github.com/dojoh-dev>dojoh.dev</a> 1v1 multiplayer platform for competitive developers
 	</li>
 	<li>
 		🪁 <a href=https://github.com/itssimmons/kometa>itssimmons/kometa</a> Lightweight and straightforward hardware metrics collector
