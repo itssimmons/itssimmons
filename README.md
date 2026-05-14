@@ -34,7 +34,7 @@
 
 <ul>
   <li>
-     Loving 🤍 OSS
+     🥇 Open Source first
   </li>
   <li>
     Building my dream&nbsp;<a href=https://github.com/snapverse target=_blank>snapverse™ 🪐</a>
@@ -45,7 +45,7 @@
 		<!--END_SECTION:weather-->
   </li>
   <li>
-    Currently working on a TCP/IP module for the <a href=https://github.com/helix-server target=_blank>🐥 Helix Server</a> library
+    Currently working on <a href=https://dojoh.dev target=_blank>🥋 dojoh.dev</a>, I can't wait to release it!
   </li>
   <li>
     Let's 🔗&nbsp;<a href=https://www.linkedin.com/in/itssimmons target=_blank>connect</a> on LinkedIn
