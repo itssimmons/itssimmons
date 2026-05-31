@@ -41,7 +41,7 @@
   </li>
   <li>
 		<!--START_SECTION:weather-->
-		Working at <b>☀️  +16°C</b>
+		Working at <b>location not found: location not found</b>
 		<!--END_SECTION:weather-->
   </li>
   <li>
