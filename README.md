@@ -63,11 +63,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       6 hrs 17 mins         ████████░░░░░░░░░░░░░░░░░   32.65 %
-HTTP Request     2 hrs 11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
-shell script     2 hrs 1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
-Docker           1 hr 25 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
-Other            1 hr 20 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+TypeScript       7 hrs 46 mins         █████████░░░░░░░░░░░░░░░░   35.72 %
+HTTP Request     2 hrs 11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
+YAML             2 hrs                 ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
+shell script     1 hr 59 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+Docker           1 hr 20 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
 ```
 
 <!--END_SECTION:waka-->
