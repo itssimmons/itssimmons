@@ -45,7 +45,7 @@
 		<!--END_SECTION:weather-->
   </li>
   <li>
-    Currently working on <a href=https://dojoh.dev target=_blank>🥋 @dojoh.dev</a>
+    Currently working on 🥋 <a href=https://www.dojoh.dev target=_blank>@dojoh.dev</a>
   </li>
   <li>
     Let's 🔗&nbsp;<a href=https://www.linkedin.com/in/itssimmons target=_blank>connect</a> on LinkedIn
