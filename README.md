@@ -45,7 +45,7 @@
 	<!--END_SECTION:weather-->
   </li>
   <li>
-	Heads down building 🥋 <a href="https://www.dojoh.dev" target="_blank">@dojoh.dev</a>; feel free to check it out!  </li>
+	Heads down building 🥋 <a href="https://www.dojoh.dev" target="_blank">@dojoh.dev</a>, feel free to check it out!</li>
   <li>
     Let's 🔗&nbsp;<a href=https://www.linkedin.com/in/itssimmons target=_blank>connect</a> on LinkedIn
   </li>
