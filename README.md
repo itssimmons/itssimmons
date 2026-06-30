@@ -34,19 +34,18 @@
 
 <ul>
   <li>
-     🥇 Open Source 1st
+    Open Source 1st 🥇
   </li>
   <li>
     Building my dream&nbsp;<a href=https://github.com/snapverse target=_blank>snapverse™ 🪐</a>
   </li>
   <li>
-		<!--START_SECTION:weather-->
-		Working at <b>☀️  +13°C</b>
-		<!--END_SECTION:weather-->
+	<!--START_SECTION:weather-->
+	Working at <b>☀️  +13°C</b>
+	<!--END_SECTION:weather-->
   </li>
   <li>
-    Currently working on 🥋 <a href=https://www.dojoh.dev target=_blank>@dojoh.dev</a>
-  </li>
+	Heads down building 🥋 <a href="https://www.dojoh.dev" target="_blank">@dojoh.dev</a>; feel free to check it out!  </li>
   <li>
     Let's 🔗&nbsp;<a href=https://www.linkedin.com/in/itssimmons target=_blank>connect</a> on LinkedIn
   </li>
@@ -79,10 +78,7 @@ shell script               1 hr 16 mins          █▒░░░░░░░░�
 
 <ul>
 	<li>
-		🐥 <a href=https://github.com/helix-server/helix>@helix-server/helix</a> Monorepo of the Helix project, API Framework made in Bun and C++.
-	</li>
-	<li>
-		🐥 <a href=https://github.com/helix-server/helix/tree/main/packages/tcp>@helix-server/tcp</a> Module of the Helix project, to handle the TCP protocol at the low level using C++.
+		🥋 <a href=https://github.com/dojoh-dev>dojoh.dev</a> 1v1 multiplayer platform for competitive developers
 	</li>
 	<li>
 		🎨 <a href=https://github.com/snapverse/ui-kit>@snapverse/ui-kit</a> Fully animated, elegant, and performant system design.
@@ -94,13 +90,16 @@ shell script               1 hr 16 mins          █▒░░░░░░░░�
 		🧩 <a href=https://github.com/snapverse/gce-cli>@snapverse/gce-cli</a> The new way of create extensions to Google Chrome.
 	</li>
 	<li>
+		🐥 <a href=https://github.com/helix-server/helix>@helix-server/helix</a> Monorepo of the Helix project, API Framework made in Bun and C++.
+	</li>
+	<li>
+		🐥 <a href=https://github.com/helix-server/helix/tree/main/packages/tcp>@helix-server/tcp</a> Module of the Helix project, to handle the TCP protocol at the low level using C++.
+	</li>
+	<li>
 		🚨 <a href=https://github.com/snapverse/headlight>@snapverse/headlight</a> The self-hosted way to trace your platform end-to-end.
 	</li>
 	<li>
-		🥋 <a href=https://github.com/dojoh-dev>dojoh.dev</a> 1v1 multiplayer platform for competitive developers
-	</li>
-	<li>
-		🪁 <a href=https://github.com/itssimmons/kometa>itssimmons/kometa</a> Lightweight and straightforward hardware metrics collector
+		🪁 <a href=https://github.com/itssimmons/kometa>itssimmons/kometa</a> Lightweight and straightforward metrics collector agent
 	</li>
 	<li>
 		More coming...
