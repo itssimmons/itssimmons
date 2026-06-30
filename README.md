@@ -130,7 +130,7 @@ shell script               1 hr 16 mins          █▒░░░░░░░░�
 	</li>
 </ul>
 
-<h2>🏆 Latest Hackathon Participations</h2>
+<h2>🏆 Latest hackathon participations</h2>
 
 <table>
   <thead>
