@@ -40,9 +40,9 @@
     Building my dream&nbsp;<a href=https://github.com/snapverse target=_blank>snapverse™ 🪐</a>
   </li>
   <li>
-	<!--START_SECTION:weather-->
-	Working at <b>☀️  +13°C</b>
-	<!--END_SECTION:weather-->
+		<!--START_SECTION:weather-->
+		Working at <b>☀️  +7°C</b>
+		<!--END_SECTION:weather-->
   </li>
   <li>
 	Heads down building 🥋 <a href="https://www.dojoh.dev" target="_blank">@dojoh.dev</a>, feel free to check it out!</li>
