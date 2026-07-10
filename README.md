@@ -34,18 +34,19 @@
 
 <ul>
   <li>
-    Open Source 1st 🥇
+	Co-founder of ⛩️ <a href="https://www.dojoh.dev" target="_blank">@dojoh.dev</a>, feel free to check it out!
   </li>
   <li>
-    Building my dream&nbsp;<a href=https://github.com/snapverse target=_blank>snapverse™ 🪐</a>
+    Building an startup&nbsp;<a href=https://github.com/snapverse target=_blank>snapverse™ 🪐</a> from scratch
+  </li>
+  <li>
+    Open Source Fan 🥇
   </li>
   <li>
 		<!--START_SECTION:weather-->
 		Working at <b>🌤️  +12°C</b>
 		<!--END_SECTION:weather-->
   </li>
-  <li>
-	Co-founder of ⛩️ <a href="https://www.dojoh.dev" target="_blank">@dojoh.dev</a>, feel free to check it out!</li>
   <li>
     Let's 🔗&nbsp;<a href=https://www.linkedin.com/in/itssimmons target=_blank>connect</a> on LinkedIn
   </li>
