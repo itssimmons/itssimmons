@@ -34,7 +34,7 @@
 
 <ul>
   <li>
-	Co-founder of ⛩️ <a href="https://www.dojoh.dev" target="_blank">@dojoh.dev</a>, feel free to check it out!
+	Co-founder & CTO of ⛩️ <a href="https://www.dojoh.dev" target="_blank">@dojoh.dev</a>!
   </li>
   <li>
     Building an startup&nbsp;<a href=https://github.com/snapverse target=_blank>snapverse™ 🪐</a> from scratch
