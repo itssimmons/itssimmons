@@ -82,6 +82,9 @@ YAML           49 mins               █▒░░░░░░░░░░░░�
 		🥋 <a href=https://github.com/dojoh-dev>dojoh.dev</a> 1v1 multiplayer platform for competitive developers
 	</li>
 	<li>
+		🎩 <a href=https://github.com/itssimmons/tui-compose>@itssimmons/tui-compose</a> Easy-to-use terminal UI inspired by the M3 and Jetpack Compose APIs.
+	</li>
+	<li>
 		🎨 <a href=https://github.com/snapverse/ui-kit>@snapverse/ui-kit</a> Fully animated, elegant, and performant system design.
 	</li>
 	<li>
