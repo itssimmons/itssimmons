@@ -34,17 +34,17 @@
 
 <ul>
   <li>
-	Co-founder <a href="https://www.dojoh.dev" target="_blank">@dojoh.dev</a>
+	Co-founder of <a href="https://www.dojoh.dev" target="_blank">@dojoh.dev</a>
   </li>
   <li>
-    Building an startup&nbsp;<a href=https://github.com/snapverse target=_blank>snapverse™ 🪐</a> from scratch
+	Trying to "learn" <a href=https://preview.redd.it/embedded-systems-starter-pack-v0-0sxgv0ebux681.png>embedded system</a> by myself
   </li>
   <li>
     Open Source Fan 🥇
   </li>
   <li>
 		<!--START_SECTION:weather-->
-		Working at <b>☀️  +17°C</b>
+		Working at <b>🌦️  +14°C</b>
 		<!--END_SECTION:weather-->
   </li>
   <li>
@@ -147,22 +147,6 @@ Docker         43 mins               █░░░░░░░░░░░░░�
     </tr>
   </thead>
   <tbody>
-	<tr>
-		<td>2025</td>
-		<td>
-			<a href=https://googlechromeai2025.devpost.com>Google Chrome Built-in AI Challenge 2025</a>
-		</td>
-		<td>
-			<a href=https://github.com/itssimmons/sand.ia>itssimmons/sand.ia</a>
-			<a href=https://github.com/itssimmons/api.sand.ia>itssimmons/api.sand.ia</a>
-		</td>
-		<td>
-			<a href=#>Sand.IA</a>
-		</td>
-		<td>
-			<a href=#>N/A</a>
-		</td>
-	</tr>
 	<tr>
 		<td>2025</td>
 		<td>
