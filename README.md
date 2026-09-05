@@ -37,7 +37,7 @@
 	Co-founder of <a href="https://www.dojoh.dev" target="_blank">@dojoh.dev</a>
   </li>
   <li>
-	Trying to "learn" <a href=https://preview.redd.it/embedded-systems-starter-pack-v0-0sxgv0ebux681.png>embedded system</a> by myself
+	Trying to "learn" <a href=https://preview.redd.it/embedded-systems-starter-pack-v0-0sxgv0ebux681.png>embedded system</a> by """myself"""
   </li>
   <li>
     Open Source Fan 🥇
